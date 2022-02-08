@@ -1,5 +1,5 @@
 
-#👋 Hi, I’m Josh
+# 👋 Hi, I’m Josh
 
 ## Welcome to my Github :)
 - Currently Enrolled at the University of British Columbia, aspiring to be a computer science major
@@ -9,6 +9,7 @@
 - Currently learning React.JS
 - Node.JS
 - React Native
+
 
 <!---
 jn-han/jn-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
