@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Josh
+# Hello, I’m Josh! 👋
 
 ## Welcome to my Github :)
 - Currently Enrolled at the University of British Columbia, aspiring to be a computer science major
