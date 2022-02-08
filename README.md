@@ -6,8 +6,8 @@
 - I hack in Java, JavaScript, and HTML.
 
 ## Hoping to Learn...
-- Currently learning React.JS
-- Node.JS
+- Currently learning React.js
+- Node.js
 - React Native
 
 
