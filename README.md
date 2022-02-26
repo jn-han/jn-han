@@ -5,8 +5,10 @@
 - Currently Enrolled at the University of British Columbia, aspiring to be a computer science major
 - I hack in Java, JavaScript, and HTML.
 
+## Currently learning...
+- React.js
+
 ## Hoping to Learn...
-- Currently learning React.js
 - Node.js
 - React Native
 
