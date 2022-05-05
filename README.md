@@ -6,7 +6,7 @@
 - I hack in Java, JavaScript, and HTML.
 
 ## Currently learning...
-- React.js
+- Vue.js
 
 ## Hoping to Learn...
 - Node.js
