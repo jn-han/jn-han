@@ -2,11 +2,11 @@
 # Hello, I’m Josh! 👋
 
 ## Welcome to my Github :)
-- Currently Enrolled at the University of British Columbia, aspiring to be a computer science major
-- I hack in Java, JavaScript, and HTML.
+- Currently enrolled at the University of British Columbia, BA Psychology. Aspiring to be a computer scientist.
+- I hack in Java, JavaScript, HTML, CSS. (Mostly web apps for now
 
 ## Currently learning...
-- Vue.js
+- React.js
 
 ## Hoping to Learn...
 - Node.js
