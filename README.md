@@ -2,7 +2,7 @@
 # Hello, I’m Josh! 👋
 
 ## Welcome to my Github :)
-- Currently enrolled at the University of British Columbia, BA Psychology. Aspiring to be a computer scientist.
+- Currently enrolled at the University of British Columbia, BA Psychology. Aspiring to be a software developer.
 - I hack in Java, JavaScript, HTML, CSS. (Mostly web apps for now
 
 ## Currently learning...
