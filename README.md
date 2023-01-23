@@ -12,7 +12,7 @@
 - Node.js
 - React Native
 
-Any further information about me can be found on my <a href="www.linkedin.com/jn-han">LinkedIn Profile</a>
+Any further information about me can be found on my <a href="https://www.linkedin.com/in/jn-han/" target="_blank">LinkedIn Profile</a>
 
 
 <!---
