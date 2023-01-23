@@ -16,12 +16,12 @@ Any further information about me can be found on my <a href="https://www.linkedi
 
 ## Some of my main projects!
 - Hack the North 2020: Productivity with Priority
- - Responsible for front-end integration to display basic tables and forms using JavaScript
+  - Responsible for front-end integration to display basic tables and forms using JavaScript
  
 - NwHacks 2023 Sponsorship Winner: kizuna 
- - Responsible for front-end integration using React.js
- - Worked with <a href="https://livepeer.org/">LivePeer's API</a> integrating their decentralized video network to livestream, display, and upload video.
- - Helped integrate design in the front-end through collaboration with UX/UI designers.
+  - Responsible for front-end integration using React.js
+  - Worked with <a href="https://livepeer.org/">LivePeer's API</a> integrating their decentralized video network to livestream, display, and upload video.
+  - Helped integrate design in the front-end through collaboration with UX/UI designers.
 
 <!---
 jn-han/jn-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
