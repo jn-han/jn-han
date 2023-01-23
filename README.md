@@ -12,6 +12,8 @@
 - Node.js
 - React Native
 
+Any further information about me can be found on my <a href="www.linkedin.com/jn-han">LinkedIn Profile</a>
+
 
 <!---
 jn-han/jn-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
