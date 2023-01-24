@@ -7,6 +7,7 @@
 
 ## Currently learning...
 - Lens API
+- GraphQL
 
 ## Hoping to Learn...
 - Node.js
