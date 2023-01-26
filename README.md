@@ -3,7 +3,7 @@
 
 ## Welcome to my Github :)
 - Currently enrolled at the University of British Columbia, BA Psychology. Aspiring to be a software developer.
-- I mainly hack using React.js, specializing in front-end web development.
+- I mainly hack using React.js, specializing in web3 front-end web development.
 
 ## Currently learning...
 - Lens API
