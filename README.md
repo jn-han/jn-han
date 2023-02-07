@@ -2,7 +2,7 @@
 # Hello, I’m Josh! 👋
 
 ## Welcome to my Github :)
-- Currently enrolled at the University of British Columbia, BA Psychology.
+- Currently enrolled at the University of British Columbia.
 - I mainly hack using React.js, specializing in web3 front-end web development.
 
 ## Currently learning...
