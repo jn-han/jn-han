@@ -11,7 +11,6 @@
 - SQL and Databases
 
 ## Hoping to Learn...
-- Node.js
 - REST API
 - More backend languages such as CPP, SQL.
 - React Native
