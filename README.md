@@ -6,8 +6,7 @@
 - I mainly hack using React.js, specializing in web3 front-end web development.
 
 ## Currently learning...
-- Lens API
-- GraphQL
+- LLM's
 - SQL and Databases
 
 ## Hoping to Learn...
