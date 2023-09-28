@@ -10,7 +10,7 @@
 
 ## Hoping to Learn...
 - REST API
-- More backend languages such as CPP, SQL.
+- More backend languages such as CPP
 - React Native
 
 ## Some of my main projects!
