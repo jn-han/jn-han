@@ -6,8 +6,7 @@
 - I mainly hack using React.js, specializing in web3 front-end web development.
 
 ## Currently learning...
-- LLM's
-- SQL and Databases
+- Data Structures and Algorithms #leetcodegrind
 
 ## Hoping to Learn...
 - REST API
