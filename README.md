@@ -7,7 +7,7 @@
 
 ## Currently working on...
 - Data Structures and Algorithms #leetcodegrind
-- CRDT and K8
+- CRDT and K8s
 
 ## Some of my main projects!
 - Hack the North 2020: Productivity with Priority
