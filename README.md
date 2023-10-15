@@ -5,13 +5,9 @@
 - Currently enrolled at the University of British Columbia.
 - I mainly hack using React.js, specializing in web3 front-end web development.
 
-## Currently learning...
+## Currently working on...
 - Data Structures and Algorithms #leetcodegrind
-
-## Hoping to Learn...
-- REST API
-- More backend languages such as CPP
-- React Native
+- CRDT and K8
 
 ## Some of my main projects!
 - Hack the North 2020: Productivity with Priority
