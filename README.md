@@ -3,6 +3,7 @@
 
 ## Welcome to my Github :)
 - I am currently a student at the University of British Columbia.
+- Currently a software engineer at the UBC Biomedical Engineering Student Team
 
 ## Currently working on...
 - Data Structures and Algorithms #leetcodegrind
