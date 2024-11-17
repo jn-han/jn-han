@@ -33,6 +33,8 @@
     
 Any further information about me can be found on my <a href="https://www.linkedin.com/in/jn-han/" target="_blank">LinkedIn Profile</a>.
 
+My personal portfolio can be found here <a href="https://www.joshuanguyen.ca/" target="_blank">here</a>.
+
 <!---
 jn-han/jn-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
