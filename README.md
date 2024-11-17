@@ -2,12 +2,12 @@
 # Hello, I’m Josh! 👋
 
 ## Welcome to my Github :)
-- Currently enrolled at the University of British Columbia.
-- I mainly hack using React.js, specializing in web3 front-end web development.
+- I am currently a student at the University of British Columbia.
 
 ## Currently working on...
 - Data Structures and Algorithms #leetcodegrind
-- CRDT and K8s
+- A flutter application currently dedicated to helping rehabilitation with those diagnosed with MS
+- An independent project tracking retail logistic KPI's from my experiences working at Aritzia
 
 ## Some of my main projects!
 - Hack the North 2020: Productivity with Priority
