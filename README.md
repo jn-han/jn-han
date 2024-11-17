@@ -11,10 +11,9 @@
 - An independent project tracking retail logistic KPI's from my experiences working at Aritzia
 
 ## Some of my main projects!
-- Hack the North 2020: Productivity with Priority
-  - Responsible for front-end integration to display basic tables and forms using JavaScript
- 
-- NwHacks 2023 Best Video Application Winner: kizuna 
+
+- NwHacks 2023 Best Video Application Winner: kizuna
+  - Lead the development of a decentralized streaming service utilizing the lens web3 social network and LivePeer
   - Responsible for front-end integration using React.js
   - Worked with <a href="https://livepeer.org/">LivePeer's API</a> integrating their Web3 decentralized video network to livestream, display, and upload video.
   - Helped integrate design in the front-end through collaboration with UX/UI designers.
