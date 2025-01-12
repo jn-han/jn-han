@@ -3,11 +3,11 @@
 
 ## Welcome to my Github :)
 - I am currently a student at the University of British Columbia.
-- Currently a software engineer at the UBC Biomedical Engineering Student Team
+- Currently a software engineer with the UBC Biomedical Engineering Student Team
 
 ## Currently working on...
 - Data Structures and Algorithms #leetcodegrind
-- A flutter application currently dedicated to helping rehabilitation with those diagnosed with MS
+- A flutter application currently dedicated to helping rehabilitation with those diagnosed with neurological disabilities that effect motor skills in the hand
 - An independent project tracking retail logistic KPI's from my experiences working at Aritzia
 
 ## Some of my main projects!
