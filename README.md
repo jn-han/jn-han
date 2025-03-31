@@ -2,7 +2,7 @@
 # Hello, I’m Josh! 👋
 
 ## Welcome to my Github :)
-- I am a student at the University of British Columbia and a
+- I am a student at the University of British Columbia and 
 - Software engineer at the BC Cancer Research Center + UBC Biomedical Engineering Student Team
 
 ## Currently working on...
