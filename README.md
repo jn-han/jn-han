@@ -1,9 +1,10 @@
 
 # Hello, I’m Josh! 👋
 
-## Welcome to my Github :)
-- I am a student at the University of British Columbia and 
-- Software engineer at the BC Cancer Research Center + UBC Biomedical Engineering Student Team
+## Welcome to my Github :) I am a
+- Student at the University of British Columbia 
+- Software engineer at the BC Cancer Research Center
+- Software engineer UBC Biomedical Engineering Student Team
 
 ## Currently working on...
 - Data Structures and Algorithms #leetcodegrind
@@ -33,7 +34,7 @@
     
 Any further information about me can be found on my <a href="https://www.linkedin.com/in/jn-han/" target="_blank">LinkedIn Profile</a>.
 
-My personal portfolio can be found here <a href="https://www.joshuanguyen.ca/" target="_blank">here</a>.
+My personal portfolio can be found <a href="https://www.joshuanguyen.ca/" target="_blank">here</a>.
 
 <!---
 jn-han/jn-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
