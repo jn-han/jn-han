@@ -1,7 +1,8 @@
 
 # Hello, I’m Josh! 👋
 
-## Welcome to my Github :) I am a
+## Welcome to my Github :) 
+I am a...
 - Student at the University of British Columbia 
 - Software engineer at the BC Cancer Research Center
 - Software engineer UBC Biomedical Engineering Student Team
