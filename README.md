@@ -5,7 +5,7 @@
 I am a...
 - Student at the University of British Columbia 
 - Software engineer at the BC Cancer Research Center
-- Software engineer UBC Biomedical Engineering Student Team
+- Software engineer on the UBC Biomedical Engineering Student Team
 
 ## Currently working on...
 - Data Structures and Algorithms #leetcodegrind
